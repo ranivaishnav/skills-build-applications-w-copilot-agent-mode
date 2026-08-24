@@ -5,3 +5,5 @@ dist/
 .env.local
 npm-debug.log
 .DS_Store
+octofit-tracker/backend/node_modules
+octofit-tracker/backend/dist
